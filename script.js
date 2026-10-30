@@ -17,15 +17,15 @@ const CONFIG = {
     { src: "assets/photos/photo-01.jpg", caption: "hari yang lebih baik karena kamu", glyph: "♡" },
     { src: "assets/photos/photo-02.jpg", caption: "cewekku yang cantik ♡", glyph: "✿" },
     { src: "assets/photos/photo-03.jpg", caption: "satu untuk camera roll", glyph: "♡" },
-    { src: "assets/photos/photo-04.jpg", caption: "kita yang apa adanya", glyph: "☼" },
-    { src: "assets/photos/photo-05.jpg", caption: "kenang-kenangan no. 05", glyph: "✧" },
+    { src: "assets/photos/photo-04.jpg", caption: "satu hal yang kamu bisa ledekin aku", glyph: "☼" },
+    { src: "assets/photos/photo-05.jpg", caption: "Miles & Gwenn", glyph: "✧" },
     { src: "assets/photos/photo-06.jpg", caption: "satu momen favorit lagi", glyph: "♡" },
   ],
 
   // Ganti judul, tanggal, dan cerita sesuai kenangan kalian.
   timeline: [
     { glyph: "♡", date: "19 Maret 2023", title: "Hari kita jadian", text: "Kencan pertama kita, dan kamu jadi Anya sementara aku jadi Damian. Dari hari itu cerita kita dimulai." },
-    { glyph: "✿", date: "Kenangan kecil", title: "Salah satu hari favoritku", text: "Momen sederhana yang jadi istimewa karena ada kamu. (Ganti dengan kenangan kalian.)" },
+    { glyph: "✿", date: "Kenangan kecil", title: "Salah satu hari favoritku", text: "Momen sederhana yang jadi istimewa karena ada kamu. Inget ga? Pas kita hujan hujanan abis pulang dari curug, nyanyi ""Love Story"" diatas motor berdua atau pas kita cosplay bareng, semua hal hal sederhana itu bisa buat aku bahagia dan bikin hari hari aku berwarna, itu karna kamuu Sayangggg Dedee olelll munyuuuu Gumushhhhh" },
     { glyph: "✧", date: "31 Oktober 2026", title: "Tujuh belas tahun kamu", text: "Hari ini kamu genap 17. Masih banyak halaman yang belum kita tulis, semoga kita punya banyak lagi." },
   ],
 
@@ -61,7 +61,7 @@ const CONFIG = {
       "Selamat ulang tahun, cewekku yang cantik. Halaman kecil ini pengingat bahwa kamu disayang, dirayakan, dan dihargai. ♡",
     ],
     signOff: "always cheering for you,",
-    signName: "your person",
+    signName: "Pyasssss MunyYuuuuu",
   },
 
   surprise: {
